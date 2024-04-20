@@ -15,3 +15,8 @@ Unofficial CTE Linux distro installation script based on LFS (WIP)
 * create directories and chroot
 build the rest, configure and compile the kernel, set everything up, and exit
 cleanup
+
+## Contribute
+Please contribute, this is a crapton of work, and I'm just one person :(
+
+https://www.linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-12.1.pdf
