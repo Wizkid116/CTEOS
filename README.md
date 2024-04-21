@@ -15,6 +15,7 @@ Unofficial CTE Linux distro installation script based on LFS (WIP)
 * create directories and chroot
 build the rest, configure and compile the kernel, set everything up, and exit
 cleanup
+* ask for system hostname, password, user, and network interface, then carry those to the new environment
 
 ## Contribute
 This is a crapton of work, and I'm just one person :(
